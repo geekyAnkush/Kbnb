@@ -2,6 +2,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["www.vectorlogo.zone"],
+    domains: ["www.vectorlogo.zone", "surl.li"],
   },
 };
